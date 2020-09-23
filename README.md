@@ -1,1 +1,1 @@
-# ddp_shiny_app
+This repository contains the ui.R, server.R, global.R, as well as the data set required to run the Shiny app I developed for the assignment of the Coursera Developing Data Products course. In addition, it also contains slides developed using RStudio Presenter to explain the app.
